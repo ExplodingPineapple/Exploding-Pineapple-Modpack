@@ -1,0 +1,59 @@
+{
+  "minecraft": {
+    "version": "1.12.2",
+    "modLoaders": [
+      {
+        "id": "forge-14.23.5.2846",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "PineappleCraft",
+  "version": "0.0.1",
+  "author": "Deanosim",
+  "files": [
+    {
+      "projectID": 309674,
+      "fileID": 2699980,
+      "required": true
+    },
+    {
+      "projectID": 314904,
+      "fileID": 2749104,
+      "required": true
+    },
+    {
+      "projectID": 317586,
+      "fileID": 2774893,
+      "required": true
+    },
+    {
+      "projectID": 238222,
+      "fileID": 2682936,
+      "required": true
+    },
+    {
+      "projectID": 289412,
+      "fileID": 2781829,
+      "required": true
+    },
+    {
+      "projectID": 297057,
+      "fileID": 2668704,
+      "required": true
+    },
+    {
+      "projectID": 237167,
+      "fileID": 2781815,
+      "required": true
+    },
+    {
+      "projectID": 237102,
+      "fileID": 2771008,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
